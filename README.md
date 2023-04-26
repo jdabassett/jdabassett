@@ -24,7 +24,7 @@
 
 ### <img src="https://em-content.zobj.net/thumbs/320/apple/354/books_1f4da.png" width="16px"> *Background*
 
-Before I became a developer I was a molecular biologist studying how proteins control gene expression. As a molecular biologist, most of my time was spent in the lab working directly with DNA, RNA, and proteins. But often I would bump into a problem that needed some custom software. As I learned to develop these small-personal programs, I became more and more drawn to programming and would want to spend the whole day playing around with code. Eventually I decided to make the switch and develop full time. I want to build tools that will benefit people; just like the tools that I relied on everyday in the lab.
+Before I became a developer I was a molecular biologist studying how proteins control gene expression. As a molecular biologist most of my time was spent in the lab working directly with DNA, RNA, and proteins. But often I would bump into a problem that needed some custom software. As I learned to develop these small-personal programs, I became more and more drawn to programming and would want to spend the whole day playing around with code. Eventually I decided to make the switch and develop full time. I want to build tools that will benefit people; just like the tools that I relied on everyday in the lab.
 
 ---
 
@@ -42,7 +42,7 @@ Before I became a developer I was a molecular biologist studying how proteins co
 ### <img src="https://em-content.zobj.net/thumbs/240/apple/354/face-with-monocle_1f9d0.png" width="16px"> *Professional Competencies*
 
  * Curiosity
-    * My biggest strength is my curiosity and I often leverage it to motivate my progression and exploration.
+    * My biggest strength is my curiosity and I often leverage it to motivate my work and exploration.
  * Ambition
     * I have always been a self-starter. As long as I can keep my motivations straight, I can work independantly for months or years without outside validation.
  * Accountability
@@ -73,7 +73,7 @@ I have gotten comfortable using HTML, CSS, Javascript, and React to build websit
 
 I am an avid rock climber, mechanical tinkerer, and hobby historian. I try to stay fit to help my mental health and to climb beautiful rocks. I enjoy learning about mechanic devices, everything from industrial machines to space craft. I love learning about history through the lens of the people that experienced and shaped it. It's always a good day if I manage to lay one more mystery to rest!
 
-Fun I learned yesterday, the combustion chamber for the Space Shuttle was fabricated with the help of wax! [link](https://hackaday.com/2023/04/23/the-shuttle-engine-needed-3d-printing-but/#:~:text=The%20technique%20uses%20wax%20and%20machined%20slots%20that,and%20a%20thicker%20nickel%20layer%20to%20provide%20strength.)
+Fun fact I learned yesterday, the combustion chamber for the Space Shuttle was fabricated with the help of wax! [link](https://hackaday.com/2023/04/23/the-shuttle-engine-needed-3d-printing-but/#:~:text=The%20technique%20uses%20wax%20and%20machined%20slots%20that,and%20a%20thicker%20nickel%20layer%20to%20provide%20strength.)
 
 ---
 
