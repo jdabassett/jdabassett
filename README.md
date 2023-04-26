@@ -10,11 +10,13 @@
   <a href="https://twitter.com/bassett_jacob" target="_blank" rel="noopener noreferrer" ><img height="40" src="images/icons8-twitter-squared-48.png"></a>
 </p>
 
-
 <p align="center">
 <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50px"><img src="https://em-content.zobj.net/source/noto-emoji-animations/344/smiling-face-with-smiling-eyes_1f60a.gif" width="50px"></p>
 
-## Hello! Welcome to my GitHub profile.
+## <p align='center' >Hello! Welcome to my GitHub profile.</p>
+
+<p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=jdabassett" width="50px"></p>
+
 ---
 ---
 
@@ -32,6 +34,19 @@ Before I became a developer I was a molecular biologist studying how proteins co
  * Editor : Visual Studio Code, PyCharm, RStudio
  * Languages : Python, JavaScript(ES6), R, CSS, HTML, Markdown
  * Frameworks/Libraries/Tools : React, Express.js,  Git, Chrome DevTools, Regex, npm, Node.js, Chart.js, MongoDB
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdabassett)](https://github.com/jdabassett/github-readme-stats)
+
+---
+
+### <img src="https://em-content.zobj.net/thumbs/240/apple/354/face-with-monocle_1f9d0.png" width="16px"> *Professional Competencies*
+
+ * Curiosity
+    * My biggest strength is my curiosity and I often leverage it to motivate my progression and exploration.
+ * Ambition
+    * I have always been a self-starter. As long as I can keep my motivations straight, I can work independantly for months or years without outside validation.
+ * Accountability
+    * I like to live life as a minimalist with the few things I do possess being highly valued. Accountability is one of those traits/possessions that I won't life without. I am honest and dependable when I commit to a task.
 
 ---
 
@@ -56,7 +71,9 @@ I have gotten comfortable using HTML, CSS, Javascript, and React to build websit
 
 ### <img src="https://em-content.zobj.net/thumbs/320/apple/354/person-climbing_1f9d7.png" width="16px"> *Hobbies and Interests*
 
-I am an avid rock climber and hobby historian; that loves piecing the world together one puzzle piece at a time. I enjoy learning about mechanic devices, everything from industrial machines to space craft. I love learning about history through the lens of the people that experienced and shaped it. It's always a good day if I manage to lay one more mystery to rest!
+I am an avid rock climber, mechanical tinkerer, and hobby historian. I try to stay fit to help my mental health and to climb beautiful rocks. I enjoy learning about mechanic devices, everything from industrial machines to space craft. I love learning about history through the lens of the people that experienced and shaped it. It's always a good day if I manage to lay one more mystery to rest!
+
+Fun I learned yesterday, the combustion chamber for the Space Shuttle was fabricated with the help of wax! [link](https://hackaday.com/2023/04/23/the-shuttle-engine-needed-3d-printing-but/#:~:text=The%20technique%20uses%20wax%20and%20machined%20slots%20that,and%20a%20thicker%20nickel%20layer%20to%20provide%20strength.)
 
 ---
 
