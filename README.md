@@ -71,7 +71,7 @@ I have gotten comfortable using HTML, CSS, Javascript, and React to build websit
 
 ### <img src="https://em-content.zobj.net/thumbs/320/apple/354/person-climbing_1f9d7.png" width="16px"> *Hobbies and Interests*
 
-I am an avid rock climber, mechanical tinkerer, and hobby historian. I try to stay fit to help my mental health and to climb beautiful rocks. I enjoy learning about mechanic devices, everything from industrial machines to space craft. I love learning about history through the lens of the people that experienced and shaped it. It's always a good day if I manage to lay one more mystery to rest!
+I am an avid rock climber, mechanical tinkerer, and hobby historian. I try to stay fit to help my mental health and to climb beautiful rocks. I enjoy learning about mechanical devices, everything from industrial machines to space craft. I love learning about history through the lens of the people that experienced and shaped it. It's always a good day if I manage to lay one more mystery to rest!
 
 Fun fact I learned yesterday, the combustion chamber for the Space Shuttle was fabricated with the help of wax! [link](https://hackaday.com/2023/04/23/the-shuttle-engine-needed-3d-printing-but/#:~:text=The%20technique%20uses%20wax%20and%20machined%20slots%20that,and%20a%20thicker%20nickel%20layer%20to%20provide%20strength.)
 
