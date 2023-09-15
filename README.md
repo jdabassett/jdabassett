@@ -15,8 +15,6 @@
 
 ## <p align='center' >Hello! Welcome to my GitHub profile.</p>
 
-<p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=jdabassett" width="50px"></p>
-
 ---
 ---
 
@@ -33,7 +31,7 @@ Before I became a developer I was a molecular biologist studying how proteins co
  * OS : macOS Ventura
  * Editor : Visual Studio Code, PyCharm, RStudio
  * Languages : Python, JavaScript(ES6), R, CSS, HTML, Markdown
- * Frameworks/Libraries/Tools : React, Express.js,  Git, Chrome DevTools, Regex, npm, Node.js, Chart.js, MongoDB
+ * Frameworks/Libraries/Tools : React, Express.js,  Git, Chrome DevTools, Regex, npm, Node.js, MongoDB, Django, Bootstrap, Auth0
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdabassett)](https://github.com/jdabassett/github-readme-stats)
 
@@ -60,7 +58,7 @@ I'm deadset on building a better life for myself and my dependents. I want the s
 
 ### <img src="https://em-content.zobj.net/thumbs/240/facebook/355/goal-net_1f945.png" width="16px"> *Current Focus*
 
-I have gotten comfortable using HTML, CSS, Javascript, and React to build websites; at least for the basics. My next focus is to learn how to build and manage a server/database. 
+I have gotten comfortable using HTML, CSS, Javascript, and React to build a front-end; at least for the basics. I have made several servers for the backend with Node.js. My next focus is to learn how to build with Django and work with more complex data structures to improve my data analysis skills.
 
 --- 
 ---
