@@ -7,7 +7,6 @@
   <a href="https://jacobbassett-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer" ><img height="40" src="images/icons8-portfolio-50.png"></a>
   <a href="https://www.linkedin.com/in/jacobbassett/" target="_blank" rel="noopener noreferrer" ><img height="40" src="images/icons8-linkedin-48.png"></a>
   <a href="mailto:jacobbassett@gmail.com" target="_blank" rel="noopener noreferrer" ><img height="40" src="images/icons8-mail-48.png"></a>
-  <a href="https://twitter.com/bassett_jacob" target="_blank" rel="noopener noreferrer" ><img height="40" src="images/icons8-twitter-squared-48.png"></a>
 </p>
 
 <p align="center">
@@ -22,16 +21,15 @@
 
 ### <img src="https://em-content.zobj.net/thumbs/320/apple/354/books_1f4da.png" width="16px"> *Background*
 
-Before I became a developer I was a molecular biologist studying how proteins control gene expression. As a molecular biologist most of my time was spent in the lab working directly with DNA, RNA, and proteins. But often I would bump into a problem that needed some custom software. As I learned to develop these small-personal programs, I became more and more drawn to programming and would want to spend the whole day playing around with code. Eventually I decided to make the switch and develop full time. I want to build tools that will benefit people; just like the tools that I relied on everyday in the lab.
+Before I became a developer I was a molecular biologist studying how proteins control gene expression. As a molecular biologist most of my time was spent in the lab working directly with DNA, RNA, and proteins. But often I would bump into a problem that needed some custom software. As I learned to develop these small-personal programs, I became more and more drawn to programming and would want to spend the whole day playing around with code. Eventually I decided to make the switch and develop full time. I'm motivated to build tools that will benefit others.
 
 ---
 
 ### <img src="https://em-content.zobj.net/thumbs/240/google/350/hammer-and-pick_2692-fe0f.png" width="16px"> *Technologies and Tools*
 
- * OS : macOS Ventura
- * Editor : Visual Studio Code, PyCharm, RStudio
- * Languages : Python, JavaScript(ES6), R, CSS, HTML, Markdown
- * Frameworks/Libraries/Tools : React, Express.js,  Git, Chrome DevTools, Regex, npm, Node.js, MongoDB, Django, Bootstrap, Auth0
+ * Editor : Cursor, Visual Studio Code, PyCharm, RStudio
+ * Languages : Python, JavaScript, TypeScript, SQL, R, CSS, HTML, Markdown
+ * Frameworks/Libraries/Database: FastAPI, Django, React, Next.js, MySQL, PostgreSQL, MongoDB
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdabassett)](https://github.com/jdabassett/github-readme-stats)
 
@@ -50,17 +48,10 @@ Before I became a developer I was a molecular biologist studying how proteins co
 
 ### <img src="https://em-content.zobj.net/thumbs/320/twitter/322/running-shoe_1f45f.png" width="16px"> *Motivations*
 
-I'm deadset on building a better life for myself and my dependents. I want the skills I accrue to build one on top of the other so that I can go further and build better tools.
+I'm deadset on building a better life for myself and my dependents. I want the skills I accrue to build one on top of the other so that I can build better tools and make a difference.
 
 ![terry fox](images/terry-fox.png)
 
----
-
-### <img src="https://em-content.zobj.net/thumbs/240/facebook/355/goal-net_1f945.png" width="16px"> *Current Focus*
-
-I have gotten comfortable using HTML, CSS, Javascript, and React to build a front-end; at least for the basics. I have made several servers for the backend with Node.js. My next focus is to learn how to build with Django and work with more complex data structures to improve my data analysis skills.
-
---- 
 ---
 
 ## <img src="https://em-content.zobj.net/thumbs/320/google/350/smiling-face-with-smiling-eyes_1f60a.png" width="16px"> ***ABOUT ME***
@@ -81,18 +72,14 @@ Fun fact I learned yesterday, the combustion chamber for the Space Shuttle was f
  * Richard Feynman
  * Martin Luther King Jr.
  * Terry Fox
- * Stanislav Petrov
  * Julia Childs
  * Alex Honnold
  * Gail Halverson
  * Bryan Stevenson
  * Mary Seacole
  * Edward Jenner
- * Fred Hampton
  * Jane Goodall
  * Marquis de Lafayette
-
-![bryan stevenson](images/bryan-stevenson.png)
 
 ---
 ---
